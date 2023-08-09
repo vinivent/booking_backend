@@ -16,7 +16,7 @@ Booking Backend is responsible for managing booking reservations, allowing users
 ## Technologies Used
 
 - Java
-- Spring Framework (Spring Boot, Spring MVC)
+- Spring Framework (Spring Boot)
 - MySQL
 
 ## Project Structure
@@ -63,7 +63,7 @@ O Booking Backend é responsável por gerenciar o agendamento de reservas, permi
 ## Tecnologias Utilizadas
 
 - Java
-- Spring Framework (Spring Boot, Spring MVC)
+- Spring Framework (Spring Boot)
 - MySQL
 
 ## Estrutura do Projeto
