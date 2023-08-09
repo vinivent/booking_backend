@@ -1,6 +1,6 @@
 # Booking Backend
 
-This is the repository of Booking Backend, a Java backend application developed with the Spring framework. The project follows the Model-View-Controller (MVC) design pattern and provides functionalities related to booking reservations.
+This is the repository of Booking Backend, a Java backend application developed with the Spring framework. The project incorporates principles of the Service Layer and Repository patterns, providing functionalities related to booking reservations.
 
 ## Overview
 
@@ -46,7 +46,8 @@ Below is an example of an HTTP GET request using the Insomnia tool to interact w
 
 
 
-Este é o repositório do Booking Backend, uma aplicação de backend desenvolvida em Java com o framework Spring. O projeto segue o padrão de projeto MVC (Model-View-Controller) e oferece funcionalidades relacionadas a agendamento de reservas.
+Este é o repositório do Booking Backend, uma aplicação backend desenvolvida em Java com o framework Spring. O projeto incorpora princípios dos padrões Service Layer e Repository, oferecendo funcionalidades relacionadas a agendamento de reservas.
+
 
 ## Visão Geral
 
